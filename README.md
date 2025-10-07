@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">**Estudante de Engenharia de Software · C · Javascript · Node.js · MongoDB**</h3>
+<h3 align="center"><strong>Estudante de Engenharia de Software · C · Javascript · Node.js · MongoDB<strong></h3>
 
 ###
 
-<p align="left">- Atualmente estou cursando o 2° semestre de Engenharia de Software na Universidade Estadual de Ponta Grossa - UEPG.<br>- No momento estou focado em aprimorar meus conhecimentos no desenvolvimento de sistemas usando as linguagens *C* e *Javascript*.</p>
+<p align="left">- Atualmente estou cursando o 2° semestre de Engenharia de Software na Universidade Estadual de Ponta Grossa - UEPG.<br>- No momento estou focado em aprimorar meus conhecimentos no desenvolvimento de sistemas usando as linguagens <strong>C<strong> e <strong>Javascript<strong>.</p>
 
 ###
 
@@ -35,6 +35,13 @@
    <img src="https://img.shields.io/badge/LinkedIn-EDUARDO PARIZE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelcolor=555555" alt="LinkedIn">
 </a>
 </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduParize&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduParize&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
