@@ -16,14 +16,13 @@
 
 <br>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo" />
+<div align="center">
+  
+| Linguagens | Backend | Banco de Dados | Ferramentas & Plataformas | Cloud & Deploy |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> | <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> | <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /> |
+| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> | | <img src="https://img.shields.io/badge/FlutterFlow-00599C?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow" /> | |
+
 </div>
 
 <br>
