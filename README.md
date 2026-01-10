@@ -6,7 +6,7 @@
 <h2 align="left" style="border: none;">Sobre mim</h2>
 
 <ul>
-  <li>Atualmente estou cursando o 2° semestre de Engenharia de Software na Universidade Estadual de Ponta Grossa - UEPG.</li>
+  <li>Atualmente estou cursando o 3° semestre de Engenharia de Software na Universidade Estadual de Ponta Grossa - UEPG.</li>
   <li>No momento estou focado em aprimorar meus conhecimentos no desenvolvimento de sistemas usando as linguagens <strong>C</strong> e <strong>Javascript</strong>.</li>
 </ul>
 
