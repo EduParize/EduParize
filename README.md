@@ -1,7 +1,7 @@
 <h1 align="center" style="border: none;">Eduardo Parize</h1>
 
 
-<h4 align="center" style="border: none;"><strong>Estudante de Engenharia de Software · C · Javascript · Node.js · MongoDB</strong></h4>
+<h4 align="center" style="border: none;"><strong>Estudante de Engenharia de Software · C · Typescript · Node.js · MongoDB</strong></h4>
 
 <h2 align="left" style="border: none;">Sobre mim</h2>
 
@@ -39,9 +39,3 @@
 
 <br>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduParize&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-<br>
