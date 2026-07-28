@@ -15,7 +15,7 @@
 
 <br>
 
-<h2 align="left" style="border: none;">🚀 Sobre mim</h2>
+<h2 align="left" style="border: none;">Sobre mim</h2>
 
 <ul>
   <li>Acadêmico do 2° ano de <strong>Engenharia de Software</strong> na <strong>Universidade Estadual de Ponta Grossa (UEPG)</strong>.</li>
@@ -26,7 +26,7 @@
 
 <br>
 
-<h2 align="left" style="border: none;">💻 Linguagens, Frameworks & Ferramentas</h2>
+<h2 align="left" style="border: none;"> Linguagens, Frameworks & Ferramentas</h2>
 
 <div align="center">
 
